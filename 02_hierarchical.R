@@ -1,4 +1,4 @@
-# Яценко Мар'яна Ярославівна, №10, USJudgeRatings, 10 варіант
+#  USJudgeRatings
 # df_scaled <- read.csv("data/clean_USJudgeRatings.csv", row.names = 1)
 #  Ієрархічна кластеризація
 # 1. Обчислення матриці відстаней для числових даних через dist()
