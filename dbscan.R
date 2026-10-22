@@ -1,6 +1,6 @@
-# Яценко Мар'яна Ярославівна, №10, USJudgeRatings, 10 варіант
+# USJudgeRatings
 
-# Підключаємо пакет для DBSCAN 
+# пакет для DBSCAN 
 library(dbscan)
 
 # DBSCAN та аналіз аномалій
